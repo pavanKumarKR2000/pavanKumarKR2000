@@ -1,7 +1,7 @@
 [![MasterHead](https://getwallpapers.com/wallpaper/full/9/a/6/489452.jpg)](https://github.com/pavanKumarKR2000)
 <h1 align="center">Hi 👋, I'm PavanKumar k R</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://image.freepik.com/free-vector/man-programmer-working-computer-with-code-screen-illustration-programmer-working-writing-code_87749-276.jpg"/>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavankumarkr2000&label=Profile%20views&color=0e75b6&style=flat" alt="pavankumarkr2000" /> </p>
 
