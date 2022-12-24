@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavankumarkr2000&label=Profile%20views&color=0e75b6&style=flat" alt="pavankumarkr2000" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pavankumarkr2000" alt="pavankumarkr2000" /></a> </p>
-
 - 🌱 I’m currently learning **Next.js**
 
 - 💬 Ask me about **Javasript,Tailwind css,React.js,Next.js**
