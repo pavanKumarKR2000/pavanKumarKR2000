@@ -1,4 +1,4 @@
-[![MasterHead](https://storyset.com/illustration/code-typing/bro)
+![MasterHead](https://storyset.com/illustration/code-typing/bro)
 <h1 align="center">Hi 👋, I'm PavanKumar k R</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
