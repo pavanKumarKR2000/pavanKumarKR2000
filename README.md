@@ -1,5 +1,5 @@
 <div class="flex">
-    <img src="https://icons.veryicon.com/png/o/miscellaneous/modern-icon-library/coding-8.png" alt="img"/>
+    <img src="https://wallpapercave.com/wp/wp2234615.png" alt="img"/>
 </div>
 <h1 align="center">Hi 👋, I'm PavanKumar k R</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
