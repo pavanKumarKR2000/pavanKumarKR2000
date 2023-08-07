@@ -1,4 +1,4 @@
-![MasterHead](https://lukaszadam.com/assets/downloads/javascript_illustration.svg)
+![MasterHead](https://lukaszadam.com/assets/downloads/hero-illustration.svg)
 <h1 align="center">Hi 👋, I'm PavanKumar k R</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
