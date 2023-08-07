@@ -1,4 +1,4 @@
-![MasterHead](https://lukaszadam.com/assets/downloads/desk-illustration-2.svg)
+![MasterHead](https://raw.githubusercontent.com/pavanKumarKR2000/scripting-lab-html-css/18057156f39afa011d67c346086ea7f3dbdcc3d3/Code%20typing-bro.svg)
 <h1 align="center">Hi 👋, I'm PavanKumar k R</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
