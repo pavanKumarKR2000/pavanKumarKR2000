@@ -1,6 +1,4 @@
-<div class="flex">
-    <img src="https://wallpapercave.com/wp/wp2234615.png" alt="img"/>
-</div>
+![banner](/home/pavan/Downloads/wp2234615-coding-wallpapers(1).png)
 <h1 align="center">Hi 👋, I'm PavanKumar k R</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
