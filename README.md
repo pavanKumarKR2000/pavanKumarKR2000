@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pavankumarkr2000&label=Profile%20views&color=0e75b6&style=flat" alt="pavankumarkr2000" /> </p>
+
 
 
 - 💬 Ask me about **Javasript,Tailwind css,React.js,Next.js**
