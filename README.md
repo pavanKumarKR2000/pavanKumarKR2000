@@ -1,5 +1,5 @@
 ![banner](https://github.com/pavanKumarKR2000/pavanKumarKR2000/blob/main/monkey-coding.png?raw=true)
-<h1 align="center">Hi 👋, I'm PavanKumar k R</h1>
+<h1 align="center">Hi 👋, I'm PavanKumar K R</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
