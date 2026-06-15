@@ -42,7 +42,7 @@
 
 <p align="center"><strong>Backend &amp; Tools</strong></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,java,git,figma&perline=6" alt="backend skills" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,typescript,git,figma&perline=6" alt="backend skills" />
 </p>
 
 ---
