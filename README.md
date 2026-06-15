@@ -25,7 +25,6 @@
 
 <p align="center">
   <a href="mailto:pavankavalakodu@gmail.com"><img src="https://img.shields.io/badge/%F0%9F%93%AB%20Email-pavankavalakodu@gmail.com-EA4335?style=flat-square" alt="email" /></a>
-  <a href="https://drive.google.com/drive/folders/1_NXAcj0LgqlhOTsohW6EPIJIUpS88jN3"><img src="https://img.shields.io/badge/%F0%9F%93%84-View%20My%20Resume-4285F4?style=flat-square" alt="resume" /></a>
 </p>
 
 ---
