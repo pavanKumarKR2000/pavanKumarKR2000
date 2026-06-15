@@ -1,31 +1,66 @@
+<h1 align="center">PavanKumar K R</h1>
+<p align="center"><strong>&lt;/&gt; Full-Stack Developer &bull; React &bull; Next.js &bull; Node.js</strong></p>
 
 <p align="center">
-  <img src="https://cdn4.iconfinder.com/data/icons/fluent-solid-20px-vol-2/20/ic_fluent_code_circle_20_filled-512.png" />
+  <a href="https://github.com/pavanKumarKR2000">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=520&lines=Hi+%F0%9F%91%8B+I'm+PavanKumar+K+R;A+passionate+full-stack+developer;Frontend+%2B+Backend+%3D+End-to-end+apps;Building+with+React%2C+Next.js+%26+Node.js" alt="Typing SVG" />
+  </a>
 </p>
 
-<h1 align="center">Hi 👋, I'm PavanKumar K R</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+---
 
+## ⚡ About Me
 
-
-
-
-- 💬 Ask me about **Javasript,Tailwind css,React.js,Next.js**
-
-- 📫 How to reach me **pavankavalakodu@gmail.com**
-
-- 📄 My resume link [https://drive.google.com/drive/folders/1_NXAcj0LgqlhOTsohW6EPIJIUpS88jN3](https://drive.google.com/drive/folders/1_NXAcj0LgqlhOTsohW6EPIJIUpS88jN3)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/pavankumar-k-r-032509198/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pavankumar-k-r-032509198/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://img.shields.io/badge/Role-Full--Stack%20Developer-36BCF7?style=for-the-badge" alt="role" />
+  <img src="https://img.shields.io/badge/Location-India%20%F0%9F%87%AE%F0%9F%87%B3-FF9933?style=for-the-badge" alt="location" />
+  <img src="https://img.shields.io/badge/Focus-End--to--End%20Web%20Apps-8E2DE2?style=for-the-badge" alt="focus" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
- <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
+<p align="center">
+  <img src="https://img.shields.io/badge/%F0%9F%9A%80-Comfortable%20across%20frontend%20%26%20backend-1f2937?style=flat-square" alt="fullstack" />
+  <img src="https://img.shields.io/badge/%F0%9F%9B%A0%EF%B8%8F-From%20React%20UI%20to%20Node.js%20APIs-1f2937?style=flat-square" alt="build" />
+  <img src="https://img.shields.io/badge/%F0%9F%92%AC-Ask%20me%20about%20React%2C%20Next.js%20%26%20Node.js-1f2937?style=flat-square" alt="ask" />
 </p>
 
+<p align="center">
+  <a href="mailto:pavankavalakodu@gmail.com"><img src="https://img.shields.io/badge/%F0%9F%93%AB%20Email-pavankavalakodu@gmail.com-EA4335?style=flat-square" alt="email" /></a>
+  <a href="https://drive.google.com/drive/folders/1_NXAcj0LgqlhOTsohW6EPIJIUpS88jN3"><img src="https://img.shields.io/badge/%F0%9F%93%84-View%20My%20Resume-4285F4?style=flat-square" alt="resume" /></a>
+</p>
 
+---
 
+## 🛠️ Tech Stack
 
+<p align="center"><strong>Frontend</strong></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind&perline=6" alt="frontend skills" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/TanStack%20Start-EF4444?style=for-the-badge&logo=react-query&logoColor=white" alt="TanStack Start" />
+  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native" />
+</p>
+
+<p align="center"><strong>Backend &amp; Tools</strong></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,java,git,figma&perline=6" alt="backend skills" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/pavankumar-k-r-032509198/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:pavankavalakodu@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pavanKumarKR2000&style=for-the-badge&color=36BCF7" alt="profile views" />
+</p>
+
+<p align="center">⭐️ From <a href="https://github.com/pavanKumarKR2000">pavanKumarKR2000</a></p>
