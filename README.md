@@ -1,5 +1,5 @@
 <h1 align="center">PavanKumar K R</h1>
-<p align="center"><strong>&lt;/&gt; Full-Stack Developer &bull; React &bull; Tanstack start &bull; Next.js &bull; Node.js</strong></p>
+<p align="center"><strong> Full-Stack Developer &bull; React &bull; Tanstack start &bull; Next.js &bull; Node.js</strong></p>
 
 <p align="center">
   <a href="https://github.com/pavanKumarKR2000">
