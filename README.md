@@ -33,7 +33,7 @@
 
 <p align="center"><strong>Frontend</strong></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind&perline=6" alt="frontend skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,figma&perline=6" alt="frontend skills" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/TanStack%20Start-EF4444?style=for-the-badge&logo=react-query&logoColor=white" alt="TanStack Start" />
@@ -42,7 +42,7 @@
 
 <p align="center"><strong>Backend &amp; Tools</strong></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,typescript,git,figma&perline=6" alt="backend skills" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,typescript,git,docker&perline=6" alt="backend skills" />
 </p>
 
 ---
