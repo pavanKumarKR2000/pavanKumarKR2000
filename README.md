@@ -58,8 +58,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pavanKumarKR2000&style=for-the-badge&color=36BCF7" alt="profile views" />
-</p>
+
 
 <p align="center">⭐️ From <a href="https://github.com/pavanKumarKR2000">pavanKumarKR2000</a></p>
