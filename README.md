@@ -7,7 +7,7 @@
   </a>
 </p>
 
----
+
 
 ## ⚡ About Me
 
@@ -27,7 +27,7 @@
   <a href="mailto:pavankavalakodu@gmail.com"><img src="https://img.shields.io/badge/%F0%9F%93%AB%20Email-pavankavalakodu@gmail.com-EA4335?style=flat-square" alt="email" /></a>
 </p>
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -45,7 +45,7 @@
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,typescript,git,docker&perline=6" alt="backend skills" />
 </p>
 
----
+
 
 ## 🤝 Connect With Me
 
